@@ -9,6 +9,7 @@ gem "inherited_resources"
 gem "devise"
 gem "rails_admin"
 gem 'carrierwave'
+gem "mini_magick"
 
 group :development do
   gem 'sqlite3'

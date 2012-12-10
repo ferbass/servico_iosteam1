@@ -8,6 +8,7 @@ gem 'rails', '3.2.8'
 gem "inherited_resources"
 gem "devise"
 gem "rails_admin"
+gem 'carrierwave'
 
 group :development do
   gem 'sqlite3'
